@@ -2,7 +2,7 @@
 
 Example:
 
-<code>
+<pre>
 <? $APPLICATION->IncludeComponent(
 	"legacy:test", 
 	"test",
@@ -17,4 +17,4 @@ Example:
 	),
 	false
 );?>
-</code>
+</pre>
