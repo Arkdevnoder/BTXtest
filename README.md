@@ -3,7 +3,7 @@
 Example:
 
 <pre>
-<? $APPLICATION->IncludeComponent(
+<?php $APPLICATION->IncludeComponent(
 	"legacy:test", 
 	"test",
 	array(
@@ -16,5 +16,6 @@ Example:
 		"TEMPLATE" => ""
 	),
 	false
-);?>
+);
+?>
 </pre>
