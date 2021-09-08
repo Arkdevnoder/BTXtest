@@ -1,9 +1,9 @@
 # BTXtest
 
-Example:
+Example PHP injection:
 
 <pre>
-<?php $APPLICATION->IncludeComponent(
+$APPLICATION->IncludeComponent(
 	"legacy:test", 
 	"test",
 	array(
@@ -17,5 +17,4 @@ Example:
 	),
 	false
 );
-?>
 </pre>
