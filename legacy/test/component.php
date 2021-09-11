@@ -6,7 +6,7 @@
 *	@version build#0.0.1
 *	@brief Job's Bitrix component
 *
-*	@var array $arParams
+*	@global array $arParams
 *	[In-environmental variable]
 *
 *	@var array $arResult
